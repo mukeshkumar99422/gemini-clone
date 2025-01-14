@@ -75,7 +75,7 @@
   padding: 0px 20px;
   margin: auto;
 }
-@media (max-resolution: 1.5dppx) {
+@media (max-resolution: 2dppx) {
   .main-bottom {
     position: absolute;
   }
